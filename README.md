@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ###
 
-<h1 align="center">Welcome 👋!</h1>
+<h1 align="left">Welcome 👋!</h1>
 
 ###
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Reach me</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://diegomarmol.com" target="_blank">
     <img src="https://img.shields.io/badge/diegomarmol.com-blue?style=for-the-badge&logo=https%3A%2F%2Fdiegomarmol.com%2Ffavicon.ico&label=website" height="25" alt="Personal Website" />
   </a>
